@@ -13,13 +13,16 @@ const Hero = () => {
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
           <div className="text-center lg:text-left">
             <h1 className="text-4xl md:text-6xl font-bold text-gray-900 mb-6">
-              Live Art for Your 
+              Every Event Has a Story -
               <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-600 to-pink-600">
-                {" "}Special Moments
+                {" "}Let’s Paint Yours. 
               </span>
             </h1>
             <p className="text-xl text-gray-600 mb-8 leading-relaxed">
-              Transform your wedding, corporate event, or private party into an unforgettable experience with live painting performances that capture the magic of your celebration.
+              Live Event Paintings · Portraits · Murals · Workshops
+              Art that celebrates your story and inspires connection.
+
+
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start">
               <Button 
